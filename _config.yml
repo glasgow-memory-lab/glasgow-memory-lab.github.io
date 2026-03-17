@@ -1,0 +1,13 @@
+title: "Glasgow Memory (GLAM) Lab"
+description: "Glasgow Memory Lab (GLAM Lab, PI: Maria Wimber), based in School of Psychology & Neuroscience, University of Glasgow"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+
+# Minimal navigation (will expand later)
+nav:
+  - title: "Home"
+    url: /
